@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 980" role="img" aria-labelledby="title desc">
+  <title id="title">TurtleTrack poster preview</title>
+  <desc id="desc">Poster preview for the TurtleTrack Posture Monitoring System student project.</desc>
+  <rect width="760" height="980" fill="#EDF6FF"/>
+  <rect x="26" y="26" width="708" height="928" rx="20" fill="#FFFFFF"/>
+  <rect x="26" y="26" width="708" height="14" fill="#0F4C8A"/>
+  <text x="52" y="78" fill="#0F4C8A" font-size="11" font-family="Arial, sans-serif" font-weight="700" letter-spacing="2">MOBILE HEALTH BIOENGINEERING</text>
+  <text x="52" y="146" fill="#0D2B4D" font-size="34" font-family="Arial, sans-serif" font-weight="700">TurtleTrack</text>
+  <text x="52" y="192" fill="#0D2B4D" font-size="30" font-family="Arial, sans-serif" font-weight="700">Posture Monitoring</text>
+  <text x="52" y="238" fill="#0D2B4D" font-size="30" font-family="Arial, sans-serif" font-weight="700">System</text>
+  <line x1="52" y1="316" x2="708" y2="316" stroke="#D5E4F4"/>
+  <text x="52" y="374" fill="#58718F" font-size="18" font-family="Arial, sans-serif">Problem</text>
+  <text x="52" y="416" fill="#0D2B4D" font-size="16" font-family="Arial, sans-serif">Poor posture contributes to preventable long-term injury risk.</text>
+  <text x="52" y="506" fill="#58718F" font-size="18" font-family="Arial, sans-serif">Methods</text>
+  <text x="52" y="548" fill="#0D2B4D" font-size="16" font-family="Arial, sans-serif">IMU " Detection " Feedback Loop</text>
+  <rect x="52" y="640" width="94" height="94" rx="16" fill="#0F4C8A"/>
+  <rect x="170" y="640" width="94" height="94" rx="16" fill="#CFE5FF"/>
+  <rect x="288" y="640" width="94" height="94" rx="16" fill="#9FD1FF"/>
+  <text x="52" y="846" fill="#58718F" font-size="15" font-family="Arial, sans-serif">Biomechanics " Wearables " Real-time Guidance</text>
+</svg>
